@@ -38,7 +38,7 @@ module.exports = {
 				objectLiteralTypeAssertions: "allow",
 			},
 		],
-		"@typescript-eslint/consistent-type-definitions": [2, "type"],
+		"@typescript-eslint/consistent-type-definitions": 0,
 		"@typescript-eslint/consistent-type-exports": [
 			2,
 			{
