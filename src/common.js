@@ -573,7 +573,7 @@ module.exports = {
 		"unicorn/explicit-length-check": 0,
 		"unicorn/filename-case": 0,
 		"unicorn/import-style": 0,
-		"unicorn/new-for-builtins": 2,
+		"unicorn/new-for-builtins": 0,
 		"unicorn/no-abusive-eslint-disable": 2,
 		"unicorn/no-array-callback-reference": 0,
 		"unicorn/no-array-for-each": 1,
@@ -610,25 +610,8 @@ module.exports = {
 		"unicorn/no-useless-switch-case": 2,
 		"unicorn/no-useless-undefined": 0,
 		"unicorn/no-zero-fractions": 2,
-		"unicorn/number-literal-case": 2,
-		"unicorn/numeric-separators-style": [
-			2,
-			{
-				hexadecimal: {
-					onlyIfContainsSeparator: true,
-				},
-				binary: {
-					onlyIfContainsSeparator: true,
-				},
-				octal: {
-					onlyIfContainsSeparator: true,
-				},
-				number: {
-					groupLength: 3,
-					minimumDigits: 0,
-				},
-			},
-		],
+		"unicorn/number-literal-case": 0,
+		"unicorn/numeric-separators-style": 0,
 		"unicorn/prefer-add-event-listener": 0,
 		"unicorn/prefer-array-find": 2,
 		"unicorn/prefer-array-flat": 2,
