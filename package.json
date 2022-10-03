@@ -1,5 +1,5 @@
 {
-	"name": "@priyam/eslint-config-snail",
+	"name": "eslint-config-snail",
 	"version": "1.0.0",
 	"description": "The ultimate ESLint shareable config",
 	"bugs": {
@@ -67,5 +67,8 @@
 	"packageManager": "yarn@3.2.3",
 	"engines": {
 		"node": ">=16.0.0"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }
