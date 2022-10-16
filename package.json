@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-snail",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"description": "The ultimate ESLint shareable config",
 	"bugs": {
 		"url": "https://github.com/r-priyam/eslint-config-snail/issues"
