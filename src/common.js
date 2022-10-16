@@ -119,7 +119,7 @@ module.exports = {
 		"import/no-amd": 2,
 		"import/no-anonymous-default-export": 0,
 		"import/no-commonjs": 0,
-		"import/no-cycle": 2,
+		"import/no-cycle": [2, { maxDepth: 4, ignoreExternal: true, allowUnsafeDynamicCyclicDependency: true }],
 		"import/no-default-export": 0,
 		"import/no-deprecated": 1,
 		"import/no-duplicates": 2,
@@ -442,7 +442,7 @@ module.exports = {
 			1,
 			{
 				location: "start",
-				terms: ["TODO", "todo", "@toto"],
+				terms: ["todo", "@todo"],
 			},
 		],
 		"no-whitespace-before-property": 2,
