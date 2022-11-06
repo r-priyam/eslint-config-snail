@@ -336,12 +336,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@next/eslint-plugin-next@npm:^13.0.1":
-  version: 13.0.1
-  resolution: "@next/eslint-plugin-next@npm:13.0.1"
+"@next/eslint-plugin-next@npm:^13.0.2":
+  version: 13.0.2
+  resolution: "@next/eslint-plugin-next@npm:13.0.2"
   dependencies:
     glob: 7.1.7
-  checksum: 9b6c9421ba394d5f8801308f9beb7a9cea499b2943994620b94c63f395b4d99d796c63a1556bce0398e63b1912733b3efb113cfbdb3b85945d288998e9839c88
+  checksum: 36570701f4ad8763bfac6a7531dc06124ddbd2b819339a77b47d777ba0037a5302d9f42e17128222b3695c44f130caa106e453bc29872be802ad68da5788ec17
   languageName: node
   linkType: hard
 
@@ -1284,7 +1284,7 @@ __metadata:
     "@angular-eslint/eslint-plugin": ^14.1.2
     "@angular-eslint/eslint-plugin-template": ^14.1.2
     "@angular-eslint/template-parser": ^14.1.2
-    "@next/eslint-plugin-next": ^13.0.1
+    "@next/eslint-plugin-next": ^13.0.2
     "@rushstack/eslint-patch": ^1.2.0
     "@typescript-eslint/eslint-plugin": ^5.42.0
     "@typescript-eslint/parser": ^5.42.0
@@ -1292,11 +1292,11 @@ __metadata:
     eslint-config-prettier: ^8.5.0
     eslint-plugin-cypress: ^2.12.1
     eslint-plugin-import: "npm:eslint-plugin-i@latest"
-    eslint-plugin-jest: ^27.1.3
+    eslint-plugin-jest: ^27.1.4
     eslint-plugin-jsdoc: ^39.6.2
     eslint-plugin-jsx-a11y: ^6.6.1
     eslint-plugin-lodash: ^7.4.0
-    eslint-plugin-n: ^15.4.0
+    eslint-plugin-n: ^15.5.0
     eslint-plugin-promise: ^6.1.1
     eslint-plugin-react: ^7.31.10
     eslint-plugin-react-hooks: ^4.6.0
@@ -1401,9 +1401,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-jest@npm:^27.1.3":
-  version: 27.1.3
-  resolution: "eslint-plugin-jest@npm:27.1.3"
+"eslint-plugin-jest@npm:^27.1.4":
+  version: 27.1.4
+  resolution: "eslint-plugin-jest@npm:27.1.4"
   dependencies:
     "@typescript-eslint/utils": ^5.10.0
   peerDependencies:
@@ -1414,7 +1414,7 @@ __metadata:
       optional: true
     jest:
       optional: true
-  checksum: 427f39ad4bb50b4e50a1f6aba04962ee3686e25b716d3e4dff47a304c2a352a35b032fec7350b84dc6362838525d93a70f7ae0f961b182c79bf602e90ebb1a55
+  checksum: b7e3bf0dc092d9936ac1c10a0aceda411935c411c9323def109c2429ccf8486b3faead80fb769119add578c200352729ff96523bffec083f421e1b151404f642
   languageName: node
   linkType: hard
 
@@ -1469,9 +1469,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-n@npm:^15.4.0":
-  version: 15.4.0
-  resolution: "eslint-plugin-n@npm:15.4.0"
+"eslint-plugin-n@npm:^15.5.0":
+  version: 15.5.0
+  resolution: "eslint-plugin-n@npm:15.5.0"
   dependencies:
     builtins: ^5.0.1
     eslint-plugin-es: ^4.1.0
@@ -1483,7 +1483,7 @@ __metadata:
     semver: ^7.3.7
   peerDependencies:
     eslint: ">=7.0.0"
-  checksum: 30c82ea4af765d5c15afda0dc09302fd98963a2965b05c3f2a8048d586a78cc3ab53d9dbb3babbd1b926bdf9aab4e2c4353cce9088d8931000363fdbccc99b51
+  checksum: d5f77b026f32822798e7a6a1d48c3e96c6f5e03899af8a42458fe14d3dabc5956b5ad242ed6723d2296354bee7f1a230b0b4a27a6de10608c9519c198ae1b4d7
   languageName: node
   linkType: hard
 
