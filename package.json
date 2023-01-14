@@ -27,9 +27,9 @@
 		"update": "yarn upgrade-interactive"
 	},
 	"dependencies": {
-		"@angular-eslint/eslint-plugin": "^14.4.0",
-		"@angular-eslint/eslint-plugin-template": "^14.4.0",
-		"@angular-eslint/template-parser": "^14.4.0",
+		"@angular-eslint/eslint-plugin": "^15.2.0",
+		"@angular-eslint/eslint-plugin-template": "^15.2.0",
+		"@angular-eslint/template-parser": "^15.2.0",
 		"@next/eslint-plugin-next": "^13.1.2",
 		"@rushstack/eslint-patch": "^1.2.0",
 		"@typescript-eslint/eslint-plugin": "^5.48.1",
@@ -51,7 +51,7 @@
 		"eslint-plugin-svelte3": "^4.0.0",
 		"eslint-plugin-tsdoc": "^0.2.17",
 		"eslint-plugin-typescript-sort-keys": "^2.1.0",
-		"eslint-plugin-unicorn": "^44.0.2",
+		"eslint-plugin-unicorn": "^45.0.2",
 		"eslint-plugin-vue": "^9.9.0",
 		"vue-eslint-parser": "^9.1.0"
 	},
@@ -60,7 +60,7 @@
 		"husky": "^8.0.3",
 		"is-ci": "^3.0.1",
 		"pinst": "^3.0.0",
-		"prettier": "^2.8.2",
+		"prettier": "^2.8.3",
 		"typescript": "^4.9.4"
 	},
 	"packageManager": "yarn@3.3.1",
